@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+header {
+    font: normal 10pt Arial;
+    color: white;
+}
+button {
+    padding-left: 10pt;
+    padding-right: 10pt;
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+}
+video#videopica style {
+display: none;
+position: fixed;
+right: 0;
+bottom: 0;
+min-width: 150%;
+min-height: 150%;
+}
